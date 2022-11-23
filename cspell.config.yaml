@@ -1,0 +1,20 @@
+version: '0.2'
+ignorePaths: ['archive', 'node_modules']
+dictionaries:
+  - 'en_US'
+  - 'softwareTerms'
+  - 'bash'
+  - 'node'
+  - 'npm'
+  - 'html'
+  - 'css'
+  - 'typescript'
+  - 'filetypes'
+words:
+  - 'npmmirror'
+  - 'zhengxs'
+  - 'pegjs'
+  - 'temme'
+ignoreWords:
+  - 'preinstall'
+  - 'tsbuildinfo'
